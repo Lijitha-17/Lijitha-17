@@ -1,16 +1,42 @@
-## Hi there 👋
+## 👋 Hi, I'm Boddu lijitha
 
-<!--
-**Lijitha-17/Lijitha-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring DevOps Engineer | Fresher | Learning by building in public
 
-Here are some ideas to get you started:
+I'm passionate about automating infrastructure, building reliable CI/CD pipelines,
+and making deployments smooth and repeatable. Currently deepening my skills in
+Kubernetes and container orchestration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+| Category        | Tools                              |
+|-----------------|------------------------------------|
+| Version Control | Git, GitHub                        |
+| Containers      | Docker, Kubernetes (learning)      |
+| CI/CD           | Jenkins                            |
+| Cloud           | AWS (EC2, S3, IAM — basics)        |
+| IaC             | Terraform, Ansible                 |
+| Monitoring      | Grafana, Prometheus                |
+| Scripting       | Python, Bash                       |
+
+---
+
+### 🌱 Currently Focusing On
+- Kubernetes — pods, deployments, services, Helm charts
+- Container orchestration patterns
+- Building end-to-end DevOps pipelines
+
+---
+
+### 📌 What You'll Find Here
+Mini projects and labs as I learn DevOps hands-on:
+- Dockerized app deployments
+- Jenkins & GitHub Actions pipeline configs
+- Terraform infrastructure scripts
+- Monitoring dashboards with Grafana + Prometheus
+
+---
+
+### 📫 Let's Connect
+lijithaboddu17@gmail.com
